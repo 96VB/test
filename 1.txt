@@ -1,0 +1,10 @@
+Return-path: <AllProcessDRO@alfabank.ru>
+Envelope-to: sd@bte-atm.com
+Delivery-date: Mon, 24 May 2021 08:52:34 +0300
+Received: from scan1-gw.alfa-bank.info ([217.12.96.192])
+	by mail.bte-atm.com with esmtps (TLS1.2:ECDHE_RSA_AES_256_GCM_SHA384:256)
+	(Exim 4.84_2)
+	(envelope-from <AllProcessDRO@alfabank.ru>)
+	id 1ll3Vy-0005jt-14
+	for sd@bte-atm.com; Mon, 24 May 2021 08:52:34 +0300
+
